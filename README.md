@@ -1,2 +1,2 @@
 # DipTrace
-Component and packages for use with DipTrace PCB layout software
+Custom component and patterns for use with DipTrace PCB layout software
